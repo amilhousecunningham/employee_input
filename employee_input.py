@@ -4,7 +4,7 @@ print('Welcome to the new employee registration portal! You will be prompted to 
 
 name = input('1. What is your name? ')
 birth_date = input('2. What is your birth date? ')
-employee_id_number = int(input('3. What is your employee id nu    mber?' ))
+employee_id_number = int(input('3. What is your employee id number?' ))
 age = int(input('4. How old are you? '))
 
 print(f"{name} was born on {birth_date}.")
