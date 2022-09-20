@@ -1,6 +1,6 @@
 #!/usr/bin/env python3.6
  
-print('Welcome to the new employee registration portal! You wi    ll be prompted to answer 4 questions. There is a 1 question su    rvery is at the end.')
+print('Welcome to the new employee registration portal! You will be prompted to answer 4 questions. There is a 1 question survey is at the end.')
 
 name = input('1. What is your name? ')
 birth_date = input('2. What is your birth date? ')
